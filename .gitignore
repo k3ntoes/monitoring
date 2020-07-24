@@ -1,0 +1,21 @@
+#ignored list
+./application/config/database.php
+./application/vendor/bin
+./application/vendor/composer
+./application/vendor/doctrine
+./application/vendor/mikey179
+./application/vendor/mpdf
+./application/vendor/myclabs
+./application/vendor/paragonie
+./application/vendor/phpdocumentor
+./application/vendor/phpspec
+./application/vendor/phpunit
+./application/vendor/psr
+./application/vendor/sbastian
+./application/vendor/symfony
+./application/vendor/webmozart
+./nbproject
+./asset/bower_components
+./asset/css
+./asset/dist
+./asset/plugins
